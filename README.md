@@ -10,5 +10,6 @@ Submitting the same or substantially similar work in multiple courses, either in
 
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course.
 
-Project Description
+Project Description:
+
 This project analyzes data gathered over the past half century and looks specifically at individual basketball player statistics to identify which have the most well-rounded playing styles for their positions, as well as the relationship of their draft picks to the success of their games. The data is limited to exclude earlier than 1976 in order to use the period after the National Basketball Association (NBA) and American Basketball Association (ABA) merged, resulting in a more focused data pool. First, the project builds a function to identify the most well-rounded player based on their playing statistics overall, regardless of position. It then plots all players draft picks against their total career points scored, and then builds on the initial function to identify best players by position through evaluating metrics that are most relevant to each position. Finally, the project plots free throw rankings agains three point rankings to indentify a relationship between players' ability to score points both during play and during three point shots. The player data for this project was pulled from a dataset on Kaggle titled "Men's Professional Basketball" sourced here: https://www.kaggle.com/open-source-sports/mens-professional-basketball.
